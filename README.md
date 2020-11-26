@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ipython/ipyparallel)
+
 # Interactive Parallel Computing with IPython
 
 ipyparallel is the new home of IPython.parallel. ipyparallel is a Python package and collection of CLI scripts for controlling clusters for Jupyter. 
